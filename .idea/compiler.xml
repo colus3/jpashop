@@ -9,5 +9,8 @@
         <module name="jpashop" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jpashop" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
